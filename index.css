@@ -5,7 +5,7 @@ body {
 
 .container {
     display: flex;
-    padding: 0 100px;
+    padding: 0 200px;
     background: #1F2937;
     justify-content: space-between;
     align-items: center;
@@ -17,6 +17,24 @@ body {
 
 .container2 {
     display: flex;
-    color: white;
+    color: rgba(255, 255, 255, 0.663);
     gap: 80px
+}
+
+.container3 {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 200px;
+    background-color: #1F2937
+}
+
+.container4 {
+    color: white;
+
+}
+
+.container5 {
+    color: white;
+    background-color: #768292;
+    padding: 50px 250px;
 }
