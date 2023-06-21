@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    padding: 0 100px;
+    background: #1F2937;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container p {
+    color: white
+}
+
+.container2 {
+    display: flex;
+    color: white;
+    gap: 80px
+}
