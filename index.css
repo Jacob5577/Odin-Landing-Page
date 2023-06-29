@@ -5,7 +5,7 @@ body {
 
 .container {
     display: flex;
-    padding: 0 200px;
+    padding: 0 350px;
     background: #1F2937;
     justify-content: space-between;
     align-items: center;
@@ -24,8 +24,10 @@ body {
 .container3 {
     display: flex;
     justify-content: space-between;
-    padding: 100px 200px;
+    gap: 100px;
+    padding: 100px 350px;
     background-color: #1F2937
+    
 }
 
 .container4 {
@@ -33,8 +35,29 @@ body {
 
 }
 
-.container5 {
+h2 {
+    font-size: 48px;
+}
+
+.container4 button {
     color: white;
-    background-color: #768292;
+    background-color: #3882f6;
+    border-radius: 4px;
+    border: none;
+    padding: 2px 10px;
+}
+
+.container5 {
+    display: flex;
+    color: #E5E7EB;
+    background-color: #a2aab9;
     padding: 50px 250px;
+    font
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container5 p {
+
 }
