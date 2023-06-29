@@ -3,6 +3,10 @@ body {
     padding: 0;
 }
 
+/*
+header
+*/
+
 .container {
     display: flex;
     padding: 0 350px;
@@ -20,6 +24,10 @@ body {
     color: rgba(255, 255, 255, 0.663);
     gap: 80px
 }
+
+/*
+section 1
+*/
 
 .container3 {
     display: flex;
@@ -52,12 +60,42 @@ h2 {
     color: #E5E7EB;
     background-color: #a2aab9;
     padding: 50px 250px;
-    font
     font-size: 18px;
     justify-content: center;
     align-items: center;
 }
 
-.container5 p {
+/*
+section 2
+*/
+
+.header2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
 
 }
+
+.container6 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 250px 0 250px;
+}  
+
+.open {
+    width: 150px;
+    height: 150px;
+    border: solid 3px #3882f6;
+    border-radius: 10%;
+}
+
+.container6 p {
+    color: #a7a8ab;
+    width: 150px;
+    text-align: center;
+}
+
+/* 
+section 3
+*/
+
