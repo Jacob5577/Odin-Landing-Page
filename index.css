@@ -116,3 +116,6 @@ section 3
     font-weight: bolder;
 }
 
+.container8 {
+    display: flex;
+}
